@@ -3,10 +3,7 @@
 Deps-free, cross-platform, transparent Matrix-style digital rain for your terminal.  
 No curses, no pip installs — just run it with stock Python 3.8+.
 
-Better than classic `cmatrix`: more themes, live controls, smooth resize, no ugly HUD.
 
-![matrix-rain-screenshot](https://via.placeholder.com/800x400/000000/00ff00?text=Matrix+Raining+in+Terminal)  
-*(replace with your own screenshot later bro 🔥)*
 
 ## Features
 
