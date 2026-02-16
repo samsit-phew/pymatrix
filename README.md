@@ -53,6 +53,7 @@ chmod +x pymatrix
 ./pymatrix -t neon
 ```
 
+## every theme except default is cursed fix incomming
 
 
 
