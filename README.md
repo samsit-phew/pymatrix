@@ -27,3 +27,32 @@ cd pymatrix
 chmod +x pymatrix
 
 ./pymatrix
+
+
+```
+
+#recomended density 200 
+
+
+### Usage 
+```bash
+./pymatrix -h
+
+#shows stuff
+
+#setting density
+
+./pymatrix -d 200
+
+#setting speed
+
+./pymatrix -s 0.50
+
+#setting theme
+
+./pymatrix -t neon
+```
+
+
+
+
